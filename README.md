@@ -1,3 +1,8 @@
+![badmath](https://img.shields.io/badge/flutter-3.3.2-%230090d9)
+![badmath](https://img.shields.io/badge/dart-2.18.1-%230090d9)
+![badmath](https://img.shields.io/badge/DevTools-2.15.0-%230090d9)
+![badmath](https://img.shields.io/badge/channel-stable-%230090d9)
+
 # youtube home screen animation
 
 A new Flutter project.
@@ -14,11 +19,10 @@ This code is free to use without any copyrights.
 
 
 
-<p >
-  <div><a href="url"><img src="images/youttube-animation.gif" align="left" height="400" width="200" ></a></div>
-</p>
+<img src="images/youttube-animation.gif" style=" width:200px ; height:400px " />
 
-<div>Ibrahim EL-Rafei </div>
+
+### Ibrahim EL-Rafei
 
 
 
