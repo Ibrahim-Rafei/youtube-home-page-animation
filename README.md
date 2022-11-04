@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 ![Alt text](assets/ezgif-1-1106731246.gif?raw=true "Title"  height="48" width="48"  )
 
 
-<a href="url"><img src="images/youttube-animation.gif" align="left" height="100" width="400" ></a>
+<a href="url"><img src="images/youttube-animation.gif" align="left" height="400" width="100" ></a>
