@@ -11,10 +11,12 @@ This code is free to use without any copyrights.
 
 ## gif 
 
-<div><a href="url"><img src="images/youttube-animation.gif" align="left" height="400" width="200" ></a></div>
 
 
 
+<p >
+  <div><a href="url"><img src="images/youttube-animation.gif" align="left" height="400" width="200" ></a></div>
+</p>
 
 
 
