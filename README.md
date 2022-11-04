@@ -15,4 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Alt text](assets/ezgif-1-1106731246.gif?raw=true "Title")
+![Alt text](assets/ezgif-1-1106731246.gif?raw=true "Title"  height="48" width="48"  )
